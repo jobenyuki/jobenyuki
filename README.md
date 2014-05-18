@@ -33,10 +33,10 @@
    
 **Open to work**
 <p>
-<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://github.com/jobenyuki/jobenyuki/blob/master/img/linked-icon.png" width="30px" alt="LinkedIn"></a>
+<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/jobenyuki/">
+  <img src="https://github.com/jobenyuki/jobenyuki/blob/master/img/linkedin-icon.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/jobenyuki">
   <img src="https://github.com/jobenyuki/jobenyuki/blob/master/img/twitter-icon.png" width="30px" alt="Twitter"></a>
   </p>
