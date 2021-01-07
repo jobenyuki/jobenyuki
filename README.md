@@ -1,11 +1,11 @@
 ![Banner](https://github.com/jobenyuki/jobenyuki/blob/master/img/banner.jpg)
 
-### Hello! �
+### Hey, I am Joben. 👋
 
-### I am a software engineer with a demonstrated history.
-### My strenth is to fully understand what clients and product owners want. I am passionate about making things happen by hard-working.
+**I'm a software engineer with a demonstrated history.**
+**My strenth is to fully understand what clients and product owners want. I am passionate about making things happen by hard-working.**
 
-**Skills/Interests**
+### Skills/Interests
 
    1. *Programming Languages*
    
@@ -31,7 +31,7 @@
    
       Git, Redis, AWS, Firebase, JIRA, Trello, Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Autodesk 3DS Max
    
-**Open to work**
+### Open to work
 <p>
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/jobenyuki/">
   <img src="https://github.com/jobenyuki/jobenyuki/blob/master/img/linkedin-icon.png" width="30px" alt="LinkedIn"></a>
